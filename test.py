@@ -1,5 +1,5 @@
 def print():
 	print("Hello")
 
-def printWorld():
-	print("World")
+def printWorld(name):
+	print("World", name)
