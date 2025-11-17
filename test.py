@@ -3,6 +3,3 @@ def print():
 
 def printWorld(name):
 	print("World", name)
-
-def printSomething():
-print
